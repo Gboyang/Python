@@ -1,0 +1,10 @@
+1、模板的使用
+
+Flask使用的是Jinja2模板，所以其语法和Django无差别
+
+2、自定义模板方法
+
+Flask中自定义模板方法的方式和Bottle相似，创建一个函数并通过参数的形式传入render_template，如：
+
+
+关于模板的继承和django一样，{% block  content %} {% endblock %}

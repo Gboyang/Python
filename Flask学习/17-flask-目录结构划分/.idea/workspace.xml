@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9020eac6-f78e-49e4-924f-9e53b816f149" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../api_admin/api/views/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../api_admin/api/views/home.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../socket_ftp/socket_ftp_Client.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../socket_ftp/socket_ftp_Client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../socket_ftp/socket_ftp_Server.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../socket_ftp/socket_ftp_Server.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1gCtSclUV1vKPNIDvp2xrI3aseY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9020eac6-f78e-49e4-924f-9e53b816f149" name="Default Changelist" comment="" />
+      <created>1597630402077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597630402077</updated>
+      <workItem from="1597630403390" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
