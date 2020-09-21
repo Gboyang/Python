@@ -1,4 +1,4 @@
-## Python script and django  components 
+## Python script
 
 author： Gboyanghao@163.com
 

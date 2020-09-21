@@ -38,7 +38,7 @@ class SSHConnection(object):
         file_name = self.create_file()
 
         sftp = paramiko.SFTPClient.from_transport(self.__transport)
-        # 将location.py 上传至服务器 /tmp/test.py
+        # 将location.py 上传至服务器 /tmp/send_to_weChat.py
         sftp.put(file_name, target_path)
 
     def rename(self, old_path, new_path):
